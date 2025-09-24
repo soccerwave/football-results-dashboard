@@ -54,7 +54,7 @@ Your `data/results.csv` should include (camel-case not required):
 
 ## Why this project fits sports tech
 
-- **Reusable & brand-agnostic**: Works with any football/soccer results CSV in a standard shape. No company-specific branding.
+- **Reusable & brand-agnostic**: Works with any football/soccer results CSV in a standard shape.
 - **Lean, proven stack**: pandas + Streamlit + SQLite + Altair + pytest → easy to maintain and extend.
 - **End-to-end**: Data Quality checks → SQL queries (5 ready-to-run) → Analytics (rolling form/GD/win%, Elo-lite) → One-page report.
 - **Ops-ready**: CI workflow (flake8 + pytest), Dockerfile, and small runbooks for validation & troubleshooting.
