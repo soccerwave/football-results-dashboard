@@ -1,3 +1,17 @@
-streamlit
-pandas
-matplotlib
+# Core
+pandas==2.2.2
+numpy==2.1.1
+
+# App
+streamlit==1.37.1
+altair==5.3.0
+plotly==5.24.1
+
+# Testing
+pytest==8.3.3
+flake8==7.1.0
+
+# Utilities (optional but light)
+python-dateutil==2.9.0.post0
+
+matplotlib==3.9.2

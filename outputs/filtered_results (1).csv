@@ -1,0 +1,774 @@
+date,is_home,opponent,gf,ga,result,home_team,away_team,home_score,away_score,year
+1920-08-28,True,Denmark,1,0,W,Spain,Denmark,1,0,1920
+1920-08-29,False,Belgium,1,3,L,Belgium,Spain,3,1,1920
+1920-09-01,True,Sweden,2,1,W,Spain,Sweden,2,1,1920
+1920-09-02,True,Italy,2,0,W,Spain,Italy,2,0,1920
+1920-09-05,True,Netherlands,3,1,W,Spain,Netherlands,3,1,1920
+1921-12-18,True,Portugal,3,1,W,Spain,Portugal,3,1,1921
+1922-04-30,False,France,4,0,W,France,Spain,0,4,1922
+1922-12-17,False,Portugal,2,1,W,Portugal,Spain,1,2,1922
+1923-01-28,True,France,3,0,W,Spain,France,3,0,1923
+1923-02-04,False,Belgium,0,1,L,Belgium,Spain,1,0,1923
+1923-12-16,True,Portugal,3,0,W,Spain,Portugal,3,0,1923
+1924-03-09,False,Italy,0,0,D,Italy,Spain,0,0,1924
+1924-03-13,False,Catalonia,7,0,W,Catalonia,Spain,0,7,1924
+1924-05-25,False,Italy,0,1,L,Italy,Spain,1,0,1924
+1924-12-21,True,Austria,2,1,W,Spain,Austria,2,1,1924
+1925-06-01,False,Switzerland,3,0,W,Switzerland,Spain,0,3,1925
+1925-06-14,True,Italy,1,0,W,Spain,Italy,1,0,1925
+1925-09-27,False,Austria,1,0,W,Austria,Spain,0,1,1925
+1925-10-04,False,Hungary,1,0,W,Hungary,Spain,0,1,1925
+1926-12-19,True,Hungary,4,2,W,Spain,Hungary,4,2,1926
+1927-04-17,True,Switzerland,1,0,W,Spain,Switzerland,1,0,1927
+1927-05-22,False,France,4,1,W,France,Spain,1,4,1927
+1927-05-29,False,Italy,0,2,L,Italy,Spain,2,0,1927
+1928-01-08,False,Portugal,2,2,D,Portugal,Spain,2,2,1928
+1928-04-22,True,Italy,1,1,D,Spain,Italy,1,1,1928
+1928-05-30,True,Mexico,7,1,W,Spain,Mexico,7,1,1928
+1928-06-01,False,Italy,1,1,D,Italy,Spain,1,1,1928
+1928-06-04,False,Italy,1,7,L,Italy,Spain,7,1,1928
+1929-03-17,True,Portugal,5,0,W,Spain,Portugal,5,0,1929
+1929-04-14,True,France,8,1,W,Spain,France,8,1,1929
+1929-05-15,True,England,4,3,W,Spain,England,4,3,1929
+1930-01-01,True,Czechoslovakia,1,0,W,Spain,Czechoslovakia,1,0,1930
+1930-06-14,False,Czechoslovakia,0,2,L,Czechoslovakia,Spain,2,0,1930
+1930-06-22,False,Italy,3,2,W,Italy,Spain,2,3,1930
+1930-11-30,False,Portugal,1,0,W,Portugal,Spain,0,1,1930
+1931-04-19,True,Italy,0,0,D,Spain,Italy,0,0,1931
+1931-04-26,True,Republic of Ireland,1,1,D,Spain,Republic of Ireland,1,1,1931
+1931-12-09,False,England,1,7,L,England,Spain,7,1,1931
+1931-12-13,False,Republic of Ireland,5,0,W,Republic of Ireland,Spain,0,5,1931
+1932-04-24,True,Yugoslavia,2,1,W,Spain,Yugoslavia,2,1,1932
+1933-04-02,True,Portugal,3,0,W,Spain,Portugal,3,0,1933
+1933-04-23,False,France,0,1,L,France,Spain,1,0,1933
+1933-04-30,False,Yugoslavia,1,1,D,Yugoslavia,Spain,1,1,1933
+1933-05-21,True,Bulgaria,13,0,W,Spain,Bulgaria,13,0,1933
+1934-02-02,False,Catalonia,2,0,W,Catalonia,Spain,0,2,1934
+1934-03-11,True,Portugal,9,0,W,Spain,Portugal,9,0,1934
+1934-03-18,False,Portugal,2,1,W,Portugal,Spain,1,2,1934
+1934-05-27,False,Brazil,3,1,W,Brazil,Spain,1,3,1934
+1934-05-31,False,Italy,1,1,D,Italy,Spain,1,1,1934
+1934-06-01,False,Italy,0,1,L,Italy,Spain,1,0,1934
+1935-01-24,True,France,2,0,W,Spain,France,2,0,1935
+1935-05-05,False,Portugal,3,3,D,Portugal,Spain,3,3,1935
+1935-05-12,False,Germany,2,1,W,Germany,Spain,1,2,1935
+1936-01-19,True,Austria,4,5,L,Spain,Austria,4,5,1936
+1936-02-23,True,Germany,1,2,L,Spain,Germany,1,2,1936
+1936-05-03,False,Switzerland,2,0,W,Switzerland,Spain,0,2,1936
+1937-11-28,True,Portugal,1,2,L,Spain,Portugal,1,2,1937
+1938-01-30,False,Portugal,0,1,L,Portugal,Spain,1,0,1938
+1941-01-12,False,Portugal,2,2,D,Portugal,Spain,2,2,1941
+1941-03-16,True,Portugal,5,1,W,Spain,Portugal,5,1,1941
+1941-12-28,True,Switzerland,3,2,W,Spain,Switzerland,3,2,1941
+1942-03-15,True,France,4,0,W,Spain,France,4,0,1942
+1942-04-12,False,Germany,1,1,D,Germany,Spain,1,1,1942
+1942-04-19,False,Italy,0,4,L,Italy,Spain,4,0,1942
+1945-03-11,False,Portugal,2,2,D,Portugal,Spain,2,2,1945
+1945-05-06,True,Portugal,4,2,W,Spain,Portugal,4,2,1945
+1946-06-23,True,Republic of Ireland,0,1,L,Spain,Republic of Ireland,0,1,1946
+1947-01-26,False,Portugal,1,4,L,Portugal,Spain,4,1,1947
+1947-03-02,False,Republic of Ireland,2,3,L,Republic of Ireland,Spain,3,2,1947
+1947-10-19,False,Catalonia,1,3,L,Catalonia,Spain,3,1,1947
+1948-03-21,True,Portugal,2,0,W,Spain,Portugal,2,0,1948
+1948-05-30,True,Republic of Ireland,2,1,W,Spain,Republic of Ireland,2,1,1948
+1948-06-20,False,Switzerland,3,3,D,Switzerland,Spain,3,3,1948
+1949-01-02,True,Belgium,1,1,D,Spain,Belgium,1,1,1949
+1949-03-20,False,Portugal,1,1,D,Portugal,Spain,1,1,1949
+1949-03-27,True,Italy,1,3,L,Spain,Italy,1,3,1949
+1949-06-12,False,Republic of Ireland,4,1,W,Republic of Ireland,Spain,1,4,1949
+1949-06-19,False,France,5,1,W,France,Spain,1,5,1949
+1950-04-02,True,Portugal,5,1,W,Spain,Portugal,5,1,1950
+1950-04-09,False,Portugal,2,2,D,Portugal,Spain,2,2,1950
+1950-06-25,True,United States,3,1,W,Spain,United States,3,1,1950
+1950-06-29,False,Chile,2,0,W,Chile,Spain,0,2,1950
+1950-07-02,False,England,1,0,W,England,Spain,0,1,1950
+1950-07-09,True,Uruguay,2,2,D,Spain,Uruguay,2,2,1950
+1950-07-13,False,Brazil,1,6,L,Brazil,Spain,6,1,1950
+1950-07-16,True,Sweden,1,3,L,Spain,Sweden,1,3,1950
+1951-02-18,True,Switzerland,6,3,W,Spain,Switzerland,6,3,1951
+1951-06-10,False,Belgium,3,3,D,Belgium,Spain,3,3,1951
+1951-06-17,False,Sweden,0,0,D,Sweden,Spain,0,0,1951
+1952-06-01,True,Republic of Ireland,6,0,W,Spain,Republic of Ireland,6,0,1952
+1952-06-08,False,Turkey,0,0,D,Turkey,Spain,0,0,1952
+1952-12-07,True,Argentina,0,1,L,Spain,Argentina,0,1,1952
+1952-12-28,True,Germany,2,2,D,Spain,Germany,2,2,1952
+1953-03-19,True,Belgium,3,1,W,Spain,Belgium,3,1,1953
+1953-07-05,False,Argentina,0,1,L,Argentina,Spain,1,0,1953
+1953-07-12,False,Chile,2,1,W,Chile,Spain,1,2,1953
+1953-08-09,False,Catalonia,6,0,W,Catalonia,Spain,0,6,1953
+1953-11-08,True,Sweden,2,2,D,Spain,Sweden,2,2,1953
+1954-01-06,True,Turkey,4,1,W,Spain,Turkey,4,1,1954
+1954-03-14,False,Turkey,0,1,L,Turkey,Spain,1,0,1954
+1954-03-17,False,Turkey,2,2,D,Turkey,Spain,2,2,1954
+1955-03-17,True,France,1,2,L,Spain,France,1,2,1955
+1955-05-18,True,England,1,1,D,Spain,England,1,1,1955
+1955-06-19,False,Switzerland,3,0,W,Switzerland,Spain,0,3,1955
+1955-11-27,False,Republic of Ireland,2,2,D,Republic of Ireland,Spain,2,2,1955
+1955-11-30,False,England,1,4,L,England,Spain,4,1,1955
+1956-06-03,False,Portugal,1,3,L,Portugal,Spain,3,1,1956
+1957-01-30,True,Netherlands,5,1,W,Spain,Netherlands,5,1,1957
+1957-03-10,True,Switzerland,2,2,D,Spain,Switzerland,2,2,1957
+1957-03-31,False,Belgium,5,0,W,Belgium,Spain,0,5,1957
+1957-05-08,False,Scotland,2,4,L,Scotland,Spain,4,2,1957
+1957-05-26,True,Scotland,4,1,W,Spain,Scotland,4,1,1957
+1957-11-24,False,Switzerland,4,1,W,Switzerland,Spain,1,4,1957
+1958-03-13,False,France,2,2,D,France,Spain,2,2,1958
+1958-03-19,False,Germany,0,2,L,Germany,Spain,2,0,1958
+1958-04-13,True,Portugal,1,0,W,Spain,Portugal,1,0,1958
+1958-10-15,True,Northern Ireland,6,2,W,Spain,Northern Ireland,6,2,1958
+1959-02-28,False,Italy,1,1,D,Italy,Spain,1,1,1959
+1959-06-28,False,Poland,4,2,W,Poland,Spain,2,4,1959
+1959-10-14,True,Poland,3,0,W,Spain,Poland,3,0,1959
+1959-11-22,True,Austria,6,3,W,Spain,Austria,6,3,1959
+1959-12-17,False,France,3,4,L,France,Spain,4,3,1959
+1960-03-13,True,Italy,3,1,W,Spain,Italy,3,1,1960
+1960-05-15,True,England,3,0,W,Spain,England,3,0,1960
+1960-07-10,False,Peru,3,1,W,Peru,Spain,1,3,1960
+1960-07-14,False,Chile,4,0,W,Chile,Spain,0,4,1960
+1960-07-17,False,Chile,4,1,W,Chile,Spain,1,4,1960
+1960-07-24,False,Argentina,0,2,L,Argentina,Spain,2,0,1960
+1960-10-26,False,England,2,4,L,England,Spain,4,2,1960
+1960-10-30,False,Austria,0,3,L,Austria,Spain,3,0,1960
+1961-04-02,True,France,2,0,W,Spain,France,2,0,1961
+1961-04-19,False,Wales,2,1,W,Wales,Spain,1,2,1961
+1961-05-18,True,Wales,1,1,D,Spain,Wales,1,1,1961
+1961-06-11,True,Argentina,2,0,W,Spain,Argentina,2,0,1961
+1961-11-12,False,Morocco,1,0,W,Morocco,Spain,0,1,1961
+1961-11-23,True,Morocco,3,2,W,Spain,Morocco,3,2,1961
+1961-12-10,False,France,1,1,D,France,Spain,1,1,1961
+1962-05-31,False,Czechoslovakia,0,1,L,Czechoslovakia,Spain,1,0,1962
+1962-06-03,False,Mexico,1,0,W,Mexico,Spain,0,1,1962
+1962-06-06,False,Brazil,1,2,L,Brazil,Spain,2,1,1962
+1962-11-01,True,Romania,6,0,W,Spain,Romania,6,0,1962
+1962-11-25,False,Romania,1,3,L,Romania,Spain,3,1,1962
+1962-12-02,False,Belgium,1,1,D,Belgium,Spain,1,1,1962
+1963-01-09,True,France,0,0,D,Spain,France,0,0,1963
+1963-05-30,True,Northern Ireland,1,1,D,Spain,Northern Ireland,1,1,1963
+1963-06-13,True,Scotland,2,6,L,Spain,Scotland,2,6,1963
+1963-10-30,False,Northern Ireland,1,0,W,Northern Ireland,Spain,0,1,1963
+1963-12-01,True,Belgium,1,2,L,Spain,Belgium,1,2,1963
+1964-03-11,True,Republic of Ireland,5,1,W,Spain,Republic of Ireland,5,1,1964
+1964-04-08,False,Republic of Ireland,2,0,W,Republic of Ireland,Spain,0,2,1964
+1964-06-17,True,Hungary,2,1,W,Spain,Hungary,2,1,1964
+1964-06-21,True,Russia,2,1,W,Spain,Russia,2,1,1964
+1964-11-15,False,Portugal,1,2,L,Portugal,Spain,2,1,1964
+1965-05-05,False,Republic of Ireland,0,1,L,Republic of Ireland,Spain,1,0,1965
+1965-05-08,False,Scotland,0,0,D,Scotland,Spain,0,0,1965
+1965-10-27,True,Republic of Ireland,4,1,W,Spain,Republic of Ireland,4,1,1965
+1965-11-10,False,Republic of Ireland,1,0,W,Republic of Ireland,Spain,0,1,1965
+1965-12-08,True,England,0,2,L,Spain,England,0,2,1965
+1966-06-23,True,Uruguay,1,1,D,Spain,Uruguay,1,1,1966
+1966-07-13,False,Argentina,1,2,L,Argentina,Spain,2,1,1966
+1966-07-15,True,Switzerland,2,1,W,Spain,Switzerland,2,1,1966
+1966-07-20,False,Germany,1,2,L,Germany,Spain,2,1,1966
+1966-10-23,False,Republic of Ireland,0,0,D,Republic of Ireland,Spain,0,0,1966
+1966-12-07,True,Republic of Ireland,2,0,W,Spain,Republic of Ireland,2,0,1966
+1967-02-01,False,Turkey,0,0,D,Turkey,Spain,0,0,1967
+1967-05-24,False,England,0,2,L,England,Spain,2,0,1967
+1967-05-31,True,Turkey,2,0,W,Spain,Turkey,2,0,1967
+1967-10-01,False,Czechoslovakia,0,1,L,Czechoslovakia,Spain,1,0,1967
+1967-10-22,True,Czechoslovakia,2,1,W,Spain,Czechoslovakia,2,1,1967
+1968-02-28,True,Sweden,3,1,W,Spain,Sweden,3,1,1968
+1968-04-03,False,England,0,1,L,England,Spain,1,0,1968
+1968-05-02,False,Sweden,1,1,D,Sweden,Spain,1,1,1968
+1968-05-08,True,England,1,2,L,Spain,England,1,2,1968
+1968-10-17,False,France,3,1,W,France,Spain,1,3,1968
+1968-10-27,False,Yugoslavia,0,0,D,Yugoslavia,Spain,0,0,1968
+1968-12-11,True,Belgium,1,1,D,Spain,Belgium,1,1,1968
+1969-02-23,False,Belgium,1,2,L,Belgium,Spain,2,1,1969
+1969-03-26,True,Switzerland,1,0,W,Spain,Switzerland,1,0,1969
+1969-04-23,True,Mexico,0,0,D,Spain,Mexico,0,0,1969
+1969-04-30,True,Yugoslavia,2,1,W,Spain,Yugoslavia,2,1,1969
+1969-06-25,False,Finland,0,2,L,Finland,Spain,2,0,1969
+1969-10-15,True,Finland,6,0,W,Spain,Finland,6,0,1969
+1970-02-11,True,Germany,2,0,W,Spain,Germany,2,0,1970
+1970-02-21,True,Italy,2,2,D,Spain,Italy,2,2,1970
+1970-04-22,False,Switzerland,1,0,W,Switzerland,Spain,0,1,1970
+1970-10-28,True,Greece,2,1,W,Spain,Greece,2,1,1970
+1970-11-11,True,Northern Ireland,3,0,W,Spain,Northern Ireland,3,0,1970
+1971-02-20,False,Italy,2,1,W,Italy,Spain,1,2,1971
+1971-03-17,True,France,2,2,D,Spain,France,2,2,1971
+1971-05-09,False,Cyprus,2,0,W,Cyprus,Spain,0,2,1971
+1971-05-30,False,Russia,1,2,L,Russia,Spain,2,1,1971
+1971-10-27,True,Russia,0,0,D,Spain,Russia,0,0,1971
+1971-11-24,True,Cyprus,7,0,W,Spain,Cyprus,7,0,1971
+1972-01-12,True,Hungary,1,0,W,Spain,Hungary,1,0,1972
+1972-02-16,False,Northern Ireland,1,1,D,Northern Ireland,Spain,1,1,1972
+1972-04-12,False,Greece,0,0,D,Greece,Spain,0,0,1972
+1972-05-23,True,Uruguay,2,0,W,Spain,Uruguay,2,0,1972
+1972-10-11,True,Argentina,1,0,W,Spain,Argentina,1,0,1972
+1972-10-19,True,Yugoslavia,2,2,D,Spain,Yugoslavia,2,2,1972
+1973-01-17,False,Greece,3,2,W,Greece,Spain,2,3,1973
+1973-02-21,True,Greece,3,1,W,Spain,Greece,3,1,1973
+1973-05-02,False,Netherlands,2,3,L,Netherlands,Spain,3,2,1973
+1973-10-17,False,Turkey,0,0,D,Turkey,Spain,0,0,1973
+1973-10-21,False,Yugoslavia,0,0,D,Yugoslavia,Spain,0,0,1973
+1973-11-24,False,Germany,1,2,L,Germany,Spain,2,1,1973
+1974-02-13,False,Yugoslavia,0,1,L,Yugoslavia,Spain,1,0,1974
+1974-02-23,True,Germany,1,0,W,Spain,Germany,1,0,1974
+1974-09-25,False,Denmark,2,1,W,Denmark,Spain,1,2,1974
+1974-10-12,False,Argentina,1,1,D,Argentina,Spain,1,1,1974
+1974-11-20,False,Scotland,2,1,W,Scotland,Spain,1,2,1974
+1975-02-05,True,Scotland,1,1,D,Spain,Scotland,1,1,1975
+1975-04-17,True,Romania,1,1,D,Spain,Romania,1,1,1975
+1975-10-12,True,Denmark,2,0,W,Spain,Denmark,2,0,1975
+1975-11-16,False,Romania,2,2,D,Romania,Spain,2,2,1975
+1976-04-24,True,Germany,1,1,D,Spain,Germany,1,1,1976
+1976-05-22,False,Germany,0,2,L,Germany,Spain,2,0,1976
+1976-10-10,True,Yugoslavia,1,0,W,Spain,Yugoslavia,1,0,1976
+1977-02-09,False,Republic of Ireland,1,0,W,Republic of Ireland,Spain,0,1,1977
+1977-03-27,True,Hungary,1,1,D,Spain,Hungary,1,1,1977
+1977-04-16,False,Romania,0,1,L,Romania,Spain,1,0,1977
+1977-09-21,False,Switzerland,2,1,W,Switzerland,Spain,1,2,1977
+1977-10-26,True,Romania,2,0,W,Spain,Romania,2,0,1977
+1977-11-30,False,Yugoslavia,1,0,W,Yugoslavia,Spain,0,1,1977
+1978-01-25,True,Italy,2,1,W,Spain,Italy,2,1,1978
+1978-03-29,True,Norway,3,0,W,Spain,Norway,3,0,1978
+1978-04-26,True,Mexico,2,0,W,Spain,Mexico,2,0,1978
+1978-05-24,False,Uruguay,0,0,D,Uruguay,Spain,0,0,1978
+1978-06-03,False,Austria,1,2,L,Austria,Spain,2,1,1978
+1978-06-07,False,Brazil,0,0,D,Brazil,Spain,0,0,1978
+1978-06-11,True,Sweden,1,0,W,Spain,Sweden,1,0,1978
+1978-10-04,False,Yugoslavia,2,1,W,Yugoslavia,Spain,1,2,1978
+1978-11-08,False,France,0,1,L,France,Spain,1,0,1978
+1978-11-15,True,Romania,1,0,W,Spain,Romania,1,0,1978
+1978-12-13,True,Cyprus,5,0,W,Spain,Cyprus,5,0,1978
+1978-12-21,False,Italy,0,1,L,Italy,Spain,1,0,1978
+1979-03-14,False,Czechoslovakia,0,1,L,Czechoslovakia,Spain,1,0,1979
+1979-04-04,False,Romania,2,2,D,Romania,Spain,2,2,1979
+1979-09-26,True,Portugal,1,1,D,Spain,Portugal,1,1,1979
+1979-10-10,True,Yugoslavia,0,1,L,Spain,Yugoslavia,0,1,1979
+1979-11-14,True,Denmark,1,3,L,Spain,Denmark,1,3,1979
+1979-12-09,False,Cyprus,3,1,W,Cyprus,Spain,1,3,1979
+1980-01-23,True,Netherlands,1,0,W,Spain,Netherlands,1,0,1980
+1980-02-13,True,German DR,0,1,L,Spain,German DR,0,1,1980
+1980-03-26,True,England,0,2,L,Spain,England,0,2,1980
+1980-04-16,True,Czechoslovakia,2,2,D,Spain,Czechoslovakia,2,2,1980
+1980-05-21,False,Denmark,2,2,D,Denmark,Spain,2,2,1980
+1980-06-12,False,Italy,0,0,D,Italy,Spain,0,0,1980
+1980-06-15,False,Belgium,1,2,L,Belgium,Spain,2,1,1980
+1980-06-18,True,England,1,2,L,Spain,England,1,2,1980
+1980-09-24,False,Hungary,2,2,D,Hungary,Spain,2,2,1980
+1980-10-15,False,German DR,0,0,D,German DR,Spain,0,0,1980
+1980-11-12,True,Poland,1,2,L,Spain,Poland,1,2,1980
+1981-02-18,True,France,1,0,W,Spain,France,1,0,1981
+1981-03-25,False,England,2,1,W,England,Spain,1,2,1981
+1981-04-15,True,Hungary,0,3,L,Spain,Hungary,0,3,1981
+1981-06-20,False,Portugal,0,2,L,Portugal,Spain,2,0,1981
+1981-06-28,False,Venezuela,2,0,W,Venezuela,Spain,0,2,1981
+1981-07-02,False,Colombia,1,1,D,Colombia,Spain,1,1,1981
+1981-07-05,False,Chile,1,1,D,Chile,Spain,1,1,1981
+1981-07-08,False,Brazil,0,1,L,Brazil,Spain,1,0,1981
+1981-09-23,False,Austria,0,0,D,Austria,Spain,0,0,1981
+1981-10-14,True,Luxembourg,3,0,W,Spain,Luxembourg,3,0,1981
+1981-11-18,False,Poland,3,2,W,Poland,Spain,2,3,1981
+1981-12-16,True,Belgium,2,0,W,Spain,Belgium,2,0,1981
+1982-02-24,True,Scotland,3,0,W,Spain,Scotland,3,0,1982
+1982-03-24,True,Wales,1,1,D,Spain,Wales,1,1,1982
+1982-04-28,True,Switzerland,2,0,W,Spain,Switzerland,2,0,1982
+1982-06-16,True,Honduras,1,1,D,Spain,Honduras,1,1,1982
+1982-06-20,True,Yugoslavia,2,1,W,Spain,Yugoslavia,2,1,1982
+1982-06-25,True,Northern Ireland,0,1,L,Spain,Northern Ireland,0,1,1982
+1982-07-02,True,Germany,1,2,L,Spain,Germany,1,2,1982
+1982-07-05,True,England,0,0,D,Spain,England,0,0,1982
+1982-10-27,True,Iceland,1,0,W,Spain,Iceland,1,0,1982
+1982-11-17,False,Republic of Ireland,3,3,D,Republic of Ireland,Spain,3,3,1982
+1983-02-16,True,Netherlands,1,0,W,Spain,Netherlands,1,0,1983
+1983-04-27,True,Republic of Ireland,2,0,W,Spain,Republic of Ireland,2,0,1983
+1983-05-15,False,Malta,3,2,W,Malta,Spain,2,3,1983
+1983-05-29,False,Iceland,1,0,W,Iceland,Spain,0,1,1983
+1983-10-05,False,France,1,1,D,France,Spain,1,1,1983
+1983-11-16,False,Netherlands,1,2,L,Netherlands,Spain,2,1,1983
+1983-12-21,True,Malta,12,1,W,Spain,Malta,12,1,1983
+1984-01-18,True,Hungary,0,1,L,Spain,Hungary,0,1,1984
+1984-02-29,False,Luxembourg,1,0,W,Luxembourg,Spain,0,1,1984
+1984-04-11,True,Denmark,2,1,W,Spain,Denmark,2,1,1984
+1984-05-26,False,Switzerland,4,0,W,Switzerland,Spain,0,4,1984
+1984-05-31,False,Hungary,1,1,D,Hungary,Spain,1,1,1984
+1984-06-07,True,Yugoslavia,0,1,L,Spain,Yugoslavia,0,1,1984
+1984-06-14,False,Romania,1,1,D,Romania,Spain,1,1,1984
+1984-06-17,False,Portugal,1,1,D,Portugal,Spain,1,1,1984
+1984-06-20,False,Germany,1,0,W,Germany,Spain,0,1,1984
+1984-06-24,False,Denmark,1,1,D,Denmark,Spain,1,1,1984
+1984-06-27,False,France,0,2,L,France,Spain,2,0,1984
+1984-10-17,True,Wales,3,0,W,Spain,Wales,3,0,1984
+1984-11-14,False,Scotland,1,3,L,Scotland,Spain,3,1,1984
+1985-01-23,True,Finland,3,1,W,Spain,Finland,3,1,1985
+1985-02-27,True,Scotland,1,0,W,Spain,Scotland,1,0,1985
+1985-03-27,True,Northern Ireland,0,0,D,Spain,Northern Ireland,0,0,1985
+1985-04-30,False,Wales,0,3,L,Wales,Spain,3,0,1985
+1985-05-26,False,Republic of Ireland,0,0,D,Republic of Ireland,Spain,0,0,1985
+1985-06-12,False,Iceland,2,1,W,Iceland,Spain,1,2,1985
+1985-09-25,True,Iceland,2,1,W,Spain,Iceland,2,1,1985
+1985-11-20,True,Austria,0,0,D,Spain,Austria,0,0,1985
+1985-12-18,True,Bulgaria,2,0,W,Spain,Bulgaria,2,0,1985
+1986-01-22,True,Russia,2,0,W,Spain,Russia,2,0,1986
+1986-02-19,True,Belgium,3,0,W,Spain,Belgium,3,0,1986
+1986-03-26,True,Poland,3,0,W,Spain,Poland,3,0,1986
+1986-06-01,True,Brazil,0,1,L,Spain,Brazil,0,1,1986
+1986-06-07,False,Northern Ireland,2,1,W,Northern Ireland,Spain,1,2,1986
+1986-06-12,False,Algeria,3,0,W,Algeria,Spain,0,3,1986
+1986-06-18,False,Denmark,5,1,W,Denmark,Spain,1,5,1986
+1986-06-22,True,Belgium,1,1,D,Spain,Belgium,1,1,1986
+1986-09-24,True,Greece,3,1,W,Spain,Greece,3,1,1986
+1986-10-15,False,Germany,2,2,D,Germany,Spain,2,2,1986
+1986-11-12,True,Romania,1,0,W,Spain,Romania,1,0,1986
+1986-12-03,False,Albania,2,1,W,Albania,Spain,1,2,1986
+1987-01-21,True,Netherlands,1,1,D,Spain,Netherlands,1,1,1987
+1987-02-18,True,England,2,4,L,Spain,England,2,4,1987
+1987-04-01,False,Austria,3,2,W,Austria,Spain,2,3,1987
+1987-04-29,False,Romania,1,3,L,Romania,Spain,3,1,1987
+1987-09-23,True,Luxembourg,2,0,W,Spain,Luxembourg,2,0,1987
+1987-10-14,True,Austria,2,0,W,Spain,Austria,2,0,1987
+1987-11-18,True,Albania,5,0,W,Spain,Albania,5,0,1987
+1988-01-27,True,German DR,0,0,D,Spain,German DR,0,0,1988
+1988-02-24,True,Czechoslovakia,1,2,L,Spain,Czechoslovakia,1,2,1988
+1988-03-23,False,France,1,2,L,France,Spain,2,1,1988
+1988-04-27,True,Scotland,0,0,D,Spain,Scotland,0,0,1988
+1988-06-01,True,Sweden,1,3,L,Spain,Sweden,1,3,1988
+1988-06-05,False,Switzerland,1,1,D,Switzerland,Spain,1,1,1988
+1988-06-11,False,Denmark,3,2,W,Denmark,Spain,2,3,1988
+1988-06-14,False,Italy,0,1,L,Italy,Spain,1,0,1988
+1988-06-17,False,Germany,0,2,L,Germany,Spain,2,0,1988
+1988-09-14,True,Yugoslavia,1,2,L,Spain,Yugoslavia,1,2,1988
+1988-10-12,True,Argentina,1,1,D,Spain,Argentina,1,1,1988
+1988-11-16,True,Republic of Ireland,2,0,W,Spain,Republic of Ireland,2,0,1988
+1988-12-21,True,Northern Ireland,4,0,W,Spain,Northern Ireland,4,0,1988
+1989-01-22,False,Malta,2,0,W,Malta,Spain,0,2,1989
+1989-02-08,False,Northern Ireland,2,0,W,Northern Ireland,Spain,0,2,1989
+1989-03-23,True,Malta,4,0,W,Spain,Malta,4,0,1989
+1989-04-26,False,Republic of Ireland,0,1,L,Republic of Ireland,Spain,1,0,1989
+1989-09-20,True,Poland,1,0,W,Spain,Poland,1,0,1989
+1989-10-11,False,Hungary,2,2,D,Hungary,Spain,2,2,1989
+1989-11-15,True,Hungary,4,0,W,Spain,Hungary,4,0,1989
+1989-12-13,True,Switzerland,2,1,W,Spain,Switzerland,2,1,1989
+1990-02-21,True,Czechoslovakia,1,0,W,Spain,Czechoslovakia,1,0,1990
+1990-03-28,True,Austria,2,3,L,Spain,Austria,2,3,1990
+1990-05-26,False,Yugoslavia,1,0,W,Yugoslavia,Spain,0,1,1990
+1990-06-13,False,Uruguay,0,0,D,Uruguay,Spain,0,0,1990
+1990-06-17,False,South Korea,3,1,W,South Korea,Spain,1,3,1990
+1990-06-21,False,Belgium,2,1,W,Belgium,Spain,1,2,1990
+1990-06-26,True,Yugoslavia,1,2,L,Spain,Yugoslavia,1,2,1990
+1990-09-12,True,Brazil,3,0,W,Spain,Brazil,3,0,1990
+1990-10-10,True,Iceland,2,1,W,Spain,Iceland,2,1,1990
+1990-11-14,False,Czechoslovakia,2,3,L,Czechoslovakia,Spain,3,2,1990
+1990-12-19,True,Albania,9,0,W,Spain,Albania,9,0,1990
+1991-01-16,True,Portugal,1,1,D,Spain,Portugal,1,1,1991
+1991-02-20,False,France,1,3,L,France,Spain,3,1,1991
+1991-03-27,True,Hungary,2,4,L,Spain,Hungary,2,4,1991
+1991-04-17,True,Romania,0,2,L,Spain,Romania,0,2,1991
+1991-09-04,True,Uruguay,2,1,W,Spain,Uruguay,2,1,1991
+1991-09-25,False,Iceland,0,2,L,Iceland,Spain,2,0,1991
+1991-10-12,True,France,1,2,L,Spain,France,1,2,1991
+1991-11-13,True,Czechoslovakia,2,1,W,Spain,Czechoslovakia,2,1,1991
+1992-01-15,False,Portugal,0,0,D,Portugal,Spain,0,0,1992
+1992-02-19,True,Russia,1,1,D,Spain,Russia,1,1,1992
+1992-03-11,True,United States,2,0,W,Spain,United States,2,0,1992
+1992-04-22,True,Albania,3,0,W,Spain,Albania,3,0,1992
+1992-09-09,True,England,1,0,W,Spain,England,1,0,1992
+1992-09-23,False,Latvia,0,0,D,Latvia,Spain,0,0,1992
+1992-10-14,False,Northern Ireland,0,0,D,Northern Ireland,Spain,0,0,1992
+1992-11-18,True,Republic of Ireland,0,0,D,Spain,Republic of Ireland,0,0,1992
+1992-12-16,True,Latvia,5,0,W,Spain,Latvia,5,0,1992
+1993-01-27,True,Mexico,1,1,D,Spain,Mexico,1,1,1993
+1993-02-24,True,Lithuania,5,0,W,Spain,Lithuania,5,0,1993
+1993-03-31,False,Denmark,0,1,L,Denmark,Spain,1,0,1993
+1993-04-28,True,Northern Ireland,3,1,W,Spain,Northern Ireland,3,1,1993
+1993-06-02,False,Lithuania,2,0,W,Lithuania,Spain,0,2,1993
+1993-09-08,True,Chile,2,0,W,Spain,Chile,2,0,1993
+1993-09-22,False,Albania,5,1,W,Albania,Spain,1,5,1993
+1993-10-13,False,Republic of Ireland,3,1,W,Republic of Ireland,Spain,1,3,1993
+1993-11-17,True,Denmark,1,0,W,Spain,Denmark,1,0,1993
+1994-01-19,True,Portugal,2,2,D,Spain,Portugal,2,2,1994
+1994-02-09,True,Poland,1,1,D,Spain,Poland,1,1,1994
+1994-03-23,True,Croatia,0,2,L,Spain,Croatia,0,2,1994
+1994-06-02,False,Finland,2,1,W,Finland,Spain,1,2,1994
+1994-06-10,False,Canada,2,0,W,Canada,Spain,0,2,1994
+1994-06-17,True,South Korea,2,2,D,Spain,South Korea,2,2,1994
+1994-06-21,False,Germany,1,1,D,Germany,Spain,1,1,1994
+1994-06-27,False,Bolivia,3,1,W,Bolivia,Spain,1,3,1994
+1994-07-02,True,Switzerland,3,0,W,Spain,Switzerland,3,0,1994
+1994-07-09,False,Italy,1,2,L,Italy,Spain,2,1,1994
+1994-09-07,False,Cyprus,2,1,W,Cyprus,Spain,1,2,1994
+1994-10-12,False,North Macedonia,2,0,W,North Macedonia,Spain,0,2,1994
+1994-11-16,True,Denmark,3,0,W,Spain,Denmark,3,0,1994
+1994-11-30,True,Finland,2,0,W,Spain,Finland,2,0,1994
+1994-12-17,False,Belgium,4,1,W,Belgium,Spain,1,4,1994
+1995-01-18,True,Uruguay,2,2,D,Spain,Uruguay,2,2,1995
+1995-02-22,True,Germany,0,0,D,Spain,Germany,0,0,1995
+1995-03-29,True,Belgium,1,1,D,Spain,Belgium,1,1,1995
+1995-04-26,False,Armenia,2,0,W,Armenia,Spain,0,2,1995
+1995-06-07,True,Armenia,1,0,W,Spain,Armenia,1,0,1995
+1995-09-06,True,Cyprus,6,0,W,Spain,Cyprus,6,0,1995
+1995-09-20,True,Argentina,2,1,W,Spain,Argentina,2,1,1995
+1995-10-11,False,Denmark,1,1,D,Denmark,Spain,1,1,1995
+1995-11-15,True,North Macedonia,3,0,W,Spain,North Macedonia,3,0,1995
+1996-02-07,True,Norway,1,0,W,Spain,Norway,1,0,1996
+1996-04-24,False,Norway,0,0,D,Norway,Spain,0,0,1996
+1996-06-09,True,Bulgaria,1,1,D,Spain,Bulgaria,1,1,1996
+1996-06-15,False,France,1,1,D,France,Spain,1,1,1996
+1996-06-18,False,Romania,2,1,W,Romania,Spain,1,2,1996
+1996-06-22,False,England,0,0,D,England,Spain,0,0,1996
+1996-09-04,False,Faroe Islands,6,2,W,Faroe Islands,Spain,2,6,1996
+1996-10-09,False,Czech Republic,0,0,D,Czech Republic,Spain,0,0,1996
+1996-11-13,True,Slovakia,4,1,W,Spain,Slovakia,4,1,1996
+1996-12-14,True,Serbia,2,0,W,Spain,Serbia,2,0,1996
+1996-12-18,False,Malta,3,0,W,Malta,Spain,0,3,1996
+1997-02-12,True,Malta,4,0,W,Spain,Malta,4,0,1997
+1997-04-30,False,Serbia,1,1,D,Serbia,Spain,1,1,1997
+1997-06-08,True,Czech Republic,1,0,W,Spain,Czech Republic,1,0,1997
+1997-09-24,False,Slovakia,2,1,W,Slovakia,Spain,1,2,1997
+1997-10-11,True,Faroe Islands,3,1,W,Spain,Faroe Islands,3,1,1997
+1997-11-19,True,Romania,1,1,D,Spain,Romania,1,1,1997
+1998-01-28,False,France,0,1,L,France,Spain,1,0,1998
+1998-03-25,True,Sweden,4,0,W,Spain,Sweden,4,0,1998
+1998-06-03,True,Northern Ireland,4,1,W,Spain,Northern Ireland,4,1,1998
+1998-06-13,True,Nigeria,2,3,L,Spain,Nigeria,2,3,1998
+1998-06-19,True,Paraguay,0,0,D,Spain,Paraguay,0,0,1998
+1998-06-24,True,Bulgaria,6,1,W,Spain,Bulgaria,6,1,1998
+1998-09-05,False,Cyprus,2,3,L,Cyprus,Spain,3,2,1998
+1998-09-23,True,Russia,1,0,W,Spain,Russia,1,0,1998
+1998-10-14,False,Israel,2,1,W,Israel,Spain,1,2,1998
+1998-11-18,False,Italy,2,2,D,Italy,Spain,2,2,1998
+1999-03-27,True,Austria,9,0,W,Spain,Austria,9,0,1999
+1999-03-31,False,San Marino,6,0,W,San Marino,Spain,0,6,1999
+1999-05-05,True,Croatia,3,1,W,Spain,Croatia,3,1,1999
+1999-06-05,True,San Marino,9,0,W,Spain,San Marino,9,0,1999
+1999-08-18,False,Poland,2,1,W,Poland,Spain,1,2,1999
+1999-09-04,False,Austria,3,1,W,Austria,Spain,1,3,1999
+1999-09-08,True,Cyprus,8,0,W,Spain,Cyprus,8,0,1999
+1999-10-10,True,Israel,3,0,W,Spain,Israel,3,0,1999
+1999-11-13,True,Brazil,0,0,D,Spain,Brazil,0,0,1999
+1999-11-17,True,Argentina,0,2,L,Spain,Argentina,0,2,1999
+2000-01-26,True,Poland,3,0,W,Spain,Poland,3,0,2000
+2000-02-23,False,Croatia,0,0,D,Croatia,Spain,0,0,2000
+2000-03-29,True,Italy,2,0,W,Spain,Italy,2,0,2000
+2000-06-03,False,Sweden,1,1,D,Sweden,Spain,1,1,2000
+2000-06-07,False,Luxembourg,1,0,W,Luxembourg,Spain,0,1,2000
+2000-06-13,True,Norway,0,1,L,Spain,Norway,0,1,2000
+2000-06-18,False,Slovenia,2,1,W,Slovenia,Spain,1,2,2000
+2000-06-21,False,Serbia,4,3,W,Serbia,Spain,3,4,2000
+2000-06-25,True,France,1,2,L,Spain,France,1,2,2000
+2000-08-16,False,Germany,1,4,L,Germany,Spain,4,1,2000
+2000-09-02,False,Bosnia and Herzegovina,2,1,W,Bosnia and Herzegovina,Spain,1,2,2000
+2000-10-07,True,Israel,2,0,W,Spain,Israel,2,0,2000
+2000-10-11,False,Austria,1,1,D,Austria,Spain,1,1,2000
+2000-11-15,True,Netherlands,1,2,L,Spain,Netherlands,1,2,2000
+2001-02-28,False,England,0,3,L,England,Spain,3,0,2001
+2001-03-24,True,Liechtenstein,5,0,W,Spain,Liechtenstein,5,0,2001
+2001-03-28,True,France,2,1,W,Spain,France,2,1,2001
+2001-04-25,True,Japan,1,0,W,Spain,Japan,1,0,2001
+2001-06-02,True,Bosnia and Herzegovina,4,1,W,Spain,Bosnia and Herzegovina,4,1,2001
+2001-06-06,False,Israel,1,1,D,Israel,Spain,1,1,2001
+2001-09-01,True,Austria,4,0,W,Spain,Austria,4,0,2001
+2001-09-05,False,Liechtenstein,2,0,W,Liechtenstein,Spain,0,2,2001
+2001-11-14,True,Mexico,1,0,W,Spain,Mexico,1,0,2001
+2002-02-13,True,Portugal,1,1,D,Spain,Portugal,1,1,2002
+2002-03-27,False,Netherlands,0,1,L,Netherlands,Spain,1,0,2002
+2002-04-17,False,Northern Ireland,5,0,W,Northern Ireland,Spain,0,5,2002
+2002-06-02,True,Slovenia,3,1,W,Spain,Slovenia,3,1,2002
+2002-06-07,True,Paraguay,3,1,W,Spain,Paraguay,3,1,2002
+2002-06-12,False,South Africa,3,2,W,South Africa,Spain,2,3,2002
+2002-06-16,True,Republic of Ireland,1,1,D,Spain,Republic of Ireland,1,1,2002
+2002-06-22,False,South Korea,0,0,D,South Korea,Spain,0,0,2002
+2002-08-21,False,Hungary,1,1,D,Hungary,Spain,1,1,2002
+2002-09-07,False,Greece,2,0,W,Greece,Spain,0,2,2002
+2002-10-12,True,Northern Ireland,3,0,W,Spain,Northern Ireland,3,0,2002
+2002-10-16,True,Paraguay,0,0,D,Spain,Paraguay,0,0,2002
+2002-11-20,True,Bulgaria,1,0,W,Spain,Bulgaria,1,0,2002
+2003-02-12,True,Germany,3,1,W,Spain,Germany,3,1,2003
+2003-03-29,False,Ukraine,2,2,D,Ukraine,Spain,2,2,2003
+2003-04-02,True,Armenia,3,0,W,Spain,Armenia,3,0,2003
+2003-04-30,True,Ecuador,4,0,W,Spain,Ecuador,4,0,2003
+2003-06-07,True,Greece,0,1,L,Spain,Greece,0,1,2003
+2003-06-11,False,Northern Ireland,0,0,D,Northern Ireland,Spain,0,0,2003
+2003-09-06,False,Portugal,3,0,W,Portugal,Spain,0,3,2003
+2003-09-10,True,Ukraine,2,1,W,Spain,Ukraine,2,1,2003
+2003-10-11,False,Armenia,4,0,W,Armenia,Spain,0,4,2003
+2003-11-15,True,Norway,2,1,W,Spain,Norway,2,1,2003
+2003-11-19,False,Norway,3,0,W,Norway,Spain,0,3,2003
+2004-02-18,True,Peru,2,1,W,Spain,Peru,2,1,2004
+2004-03-31,True,Denmark,2,0,W,Spain,Denmark,2,0,2004
+2004-04-28,False,Italy,1,1,D,Italy,Spain,1,1,2004
+2004-06-05,True,Andorra,4,0,W,Spain,Andorra,4,0,2004
+2004-06-12,True,Russia,1,0,W,Spain,Russia,1,0,2004
+2004-06-16,False,Greece,1,1,D,Greece,Spain,1,1,2004
+2004-06-20,False,Portugal,0,1,L,Portugal,Spain,1,0,2004
+2004-08-18,True,Venezuela,3,2,W,Spain,Venezuela,3,2,2004
+2004-09-03,True,Scotland,1,1,D,Spain,Scotland,1,1,2004
+2004-09-08,False,Bosnia and Herzegovina,1,1,D,Bosnia and Herzegovina,Spain,1,1,2004
+2004-10-09,True,Belgium,2,0,W,Spain,Belgium,2,0,2004
+2004-10-13,False,Lithuania,0,0,D,Lithuania,Spain,0,0,2004
+2004-11-17,True,England,1,0,W,Spain,England,1,0,2004
+2005-02-09,True,San Marino,5,0,W,Spain,San Marino,5,0,2005
+2005-03-26,True,China PR,3,0,W,Spain,China PR,3,0,2005
+2005-03-30,False,Serbia,0,0,D,Serbia,Spain,0,0,2005
+2005-06-04,True,Lithuania,1,0,W,Spain,Lithuania,1,0,2005
+2005-06-08,True,Bosnia and Herzegovina,1,1,D,Spain,Bosnia and Herzegovina,1,1,2005
+2005-08-17,True,Uruguay,2,0,W,Spain,Uruguay,2,0,2005
+2005-09-03,True,Canada,2,1,W,Spain,Canada,2,1,2005
+2005-09-07,True,Serbia,1,1,D,Spain,Serbia,1,1,2005
+2005-10-08,False,Belgium,2,0,W,Belgium,Spain,0,2,2005
+2005-10-12,False,San Marino,6,0,W,San Marino,Spain,0,6,2005
+2005-11-12,True,Slovakia,5,1,W,Spain,Slovakia,5,1,2005
+2005-11-16,False,Slovakia,1,1,D,Slovakia,Spain,1,1,2005
+2006-03-01,True,Ivory Coast,3,2,W,Spain,Ivory Coast,3,2,2006
+2006-05-27,True,Russia,0,0,D,Spain,Russia,0,0,2006
+2006-06-03,True,Egypt,2,0,W,Spain,Egypt,2,0,2006
+2006-06-07,True,Croatia,2,1,W,Spain,Croatia,2,1,2006
+2006-06-14,True,Ukraine,4,0,W,Spain,Ukraine,4,0,2006
+2006-06-19,True,Tunisia,3,1,W,Spain,Tunisia,3,1,2006
+2006-06-23,False,Saudi Arabia,1,0,W,Saudi Arabia,Spain,0,1,2006
+2006-06-27,True,France,1,3,L,Spain,France,1,3,2006
+2006-08-15,False,Iceland,0,0,D,Iceland,Spain,0,0,2006
+2006-09-02,True,Liechtenstein,4,0,W,Spain,Liechtenstein,4,0,2006
+2006-09-06,False,Northern Ireland,2,3,L,Northern Ireland,Spain,3,2,2006
+2006-10-07,False,Sweden,0,2,L,Sweden,Spain,2,0,2006
+2006-10-11,True,Argentina,2,1,W,Spain,Argentina,2,1,2006
+2006-11-15,True,Romania,0,1,L,Spain,Romania,0,1,2006
+2007-02-07,False,England,1,0,W,England,Spain,0,1,2007
+2007-03-24,True,Denmark,2,1,W,Spain,Denmark,2,1,2007
+2007-03-28,True,Iceland,1,0,W,Spain,Iceland,1,0,2007
+2007-06-02,False,Latvia,2,0,W,Latvia,Spain,0,2,2007
+2007-06-06,False,Liechtenstein,2,0,W,Liechtenstein,Spain,0,2,2007
+2007-08-22,False,Greece,3,2,W,Greece,Spain,2,3,2007
+2007-09-08,False,Iceland,1,1,D,Iceland,Spain,1,1,2007
+2007-09-12,True,Latvia,2,0,W,Spain,Latvia,2,0,2007
+2007-10-13,False,Denmark,3,1,W,Denmark,Spain,1,3,2007
+2007-10-17,False,Finland,0,0,D,Finland,Spain,0,0,2007
+2007-11-17,True,Sweden,3,0,W,Spain,Sweden,3,0,2007
+2007-11-21,True,Northern Ireland,1,0,W,Spain,Northern Ireland,1,0,2007
+2008-02-06,True,France,1,0,W,Spain,France,1,0,2008
+2008-03-26,True,Italy,1,0,W,Spain,Italy,1,0,2008
+2008-05-31,True,Peru,2,1,W,Spain,Peru,2,1,2008
+2008-06-04,True,United States,1,0,W,Spain,United States,1,0,2008
+2008-06-10,True,Russia,4,1,W,Spain,Russia,4,1,2008
+2008-06-14,False,Sweden,2,1,W,Sweden,Spain,1,2,2008
+2008-06-18,False,Greece,2,1,W,Greece,Spain,1,2,2008
+2008-06-22,True,Italy,0,0,D,Spain,Italy,0,0,2008
+2008-06-26,False,Russia,3,0,W,Russia,Spain,0,3,2008
+2008-06-29,False,Germany,1,0,W,Germany,Spain,0,1,2008
+2008-08-20,False,Denmark,3,0,W,Denmark,Spain,0,3,2008
+2008-09-06,True,Bosnia and Herzegovina,1,0,W,Spain,Bosnia and Herzegovina,1,0,2008
+2008-09-10,True,Armenia,4,0,W,Spain,Armenia,4,0,2008
+2008-10-11,False,Estonia,3,0,W,Estonia,Spain,0,3,2008
+2008-10-15,False,Belgium,2,1,W,Belgium,Spain,1,2,2008
+2008-11-19,True,Chile,3,0,W,Spain,Chile,3,0,2008
+2009-02-11,True,England,2,0,W,Spain,England,2,0,2009
+2009-03-28,True,Turkey,1,0,W,Spain,Turkey,1,0,2009
+2009-04-01,False,Turkey,2,1,W,Turkey,Spain,1,2,2009
+2009-06-09,False,Azerbaijan,6,0,W,Azerbaijan,Spain,0,6,2009
+2009-06-14,False,New Zealand,5,0,W,New Zealand,Spain,0,5,2009
+2009-06-17,True,Iraq,1,0,W,Spain,Iraq,1,0,2009
+2009-06-20,False,South Africa,2,0,W,South Africa,Spain,0,2,2009
+2009-06-24,True,United States,0,2,L,Spain,United States,0,2,2009
+2009-06-28,False,South Africa,3,2,W,South Africa,Spain,2,3,2009
+2009-08-12,False,North Macedonia,3,2,W,North Macedonia,Spain,2,3,2009
+2009-09-05,True,Belgium,5,0,W,Spain,Belgium,5,0,2009
+2009-09-09,True,Estonia,3,0,W,Spain,Estonia,3,0,2009
+2009-10-10,False,Armenia,2,1,W,Armenia,Spain,1,2,2009
+2009-10-14,False,Bosnia and Herzegovina,5,2,W,Bosnia and Herzegovina,Spain,2,5,2009
+2009-11-14,True,Argentina,2,1,W,Spain,Argentina,2,1,2009
+2009-11-18,False,Austria,5,1,W,Austria,Spain,1,5,2009
+2010-03-03,False,France,2,0,W,France,Spain,0,2,2010
+2010-05-29,True,Saudi Arabia,3,2,W,Spain,Saudi Arabia,3,2,2010
+2010-06-03,True,South Korea,1,0,W,Spain,South Korea,1,0,2010
+2010-06-08,True,Poland,6,0,W,Spain,Poland,6,0,2010
+2010-06-16,True,Switzerland,0,1,L,Spain,Switzerland,0,1,2010
+2010-06-21,True,Honduras,2,0,W,Spain,Honduras,2,0,2010
+2010-06-25,False,Chile,2,1,W,Chile,Spain,1,2,2010
+2010-06-29,True,Portugal,1,0,W,Spain,Portugal,1,0,2010
+2010-07-03,False,Paraguay,1,0,W,Paraguay,Spain,0,1,2010
+2010-07-07,False,Germany,1,0,W,Germany,Spain,0,1,2010
+2010-07-11,False,Netherlands,1,0,W,Netherlands,Spain,0,1,2010
+2010-08-11,False,Mexico,1,1,D,Mexico,Spain,1,1,2010
+2010-09-03,False,Liechtenstein,4,0,W,Liechtenstein,Spain,0,4,2010
+2010-09-07,False,Argentina,1,4,L,Argentina,Spain,4,1,2010
+2010-10-08,True,Lithuania,3,1,W,Spain,Lithuania,3,1,2010
+2010-10-12,False,Scotland,3,2,W,Scotland,Spain,2,3,2010
+2010-11-17,False,Portugal,0,4,L,Portugal,Spain,4,0,2010
+2011-02-09,True,Colombia,1,0,W,Spain,Colombia,1,0,2011
+2011-03-25,True,Czech Republic,2,1,W,Spain,Czech Republic,2,1,2011
+2011-03-29,False,Lithuania,3,1,W,Lithuania,Spain,1,3,2011
+2011-06-04,False,United States,4,0,W,United States,Spain,0,4,2011
+2011-06-07,False,Venezuela,3,0,W,Venezuela,Spain,0,3,2011
+2011-08-10,False,Italy,1,2,L,Italy,Spain,2,1,2011
+2011-09-02,True,Chile,3,2,W,Spain,Chile,3,2,2011
+2011-09-06,True,Liechtenstein,6,0,W,Spain,Liechtenstein,6,0,2011
+2011-10-07,False,Czech Republic,2,0,W,Czech Republic,Spain,0,2,2011
+2011-10-11,True,Scotland,3,1,W,Spain,Scotland,3,1,2011
+2011-11-12,False,England,0,1,L,England,Spain,1,0,2011
+2011-11-15,False,Costa Rica,2,2,D,Costa Rica,Spain,2,2,2011
+2012-02-29,True,Venezuela,5,0,W,Spain,Venezuela,5,0,2012
+2012-05-26,True,Serbia,2,0,W,Spain,Serbia,2,0,2012
+2012-05-30,True,South Korea,4,1,W,Spain,South Korea,4,1,2012
+2012-06-03,True,China PR,1,0,W,Spain,China PR,1,0,2012
+2012-06-10,True,Italy,1,1,D,Spain,Italy,1,1,2012
+2012-06-14,True,Republic of Ireland,4,0,W,Spain,Republic of Ireland,4,0,2012
+2012-06-18,False,Croatia,1,0,W,Croatia,Spain,0,1,2012
+2012-06-23,True,France,2,0,W,Spain,France,2,0,2012
+2012-06-27,False,Portugal,0,0,D,Portugal,Spain,0,0,2012
+2012-07-01,True,Italy,4,0,W,Spain,Italy,4,0,2012
+2012-08-15,False,Puerto Rico,2,1,W,Puerto Rico,Spain,1,2,2012
+2012-09-07,True,Saudi Arabia,5,0,W,Spain,Saudi Arabia,5,0,2012
+2012-09-11,False,Georgia,1,0,W,Georgia,Spain,0,1,2012
+2012-10-12,False,Belarus,4,0,W,Belarus,Spain,0,4,2012
+2012-10-16,True,France,1,1,D,Spain,France,1,1,2012
+2012-11-14,False,Panama,5,1,W,Panama,Spain,1,5,2012
+2013-02-06,True,Uruguay,3,1,W,Spain,Uruguay,3,1,2013
+2013-03-22,True,Finland,1,1,D,Spain,Finland,1,1,2013
+2013-03-26,False,France,1,0,W,France,Spain,0,1,2013
+2013-06-08,False,Haiti,2,1,W,Haiti,Spain,1,2,2013
+2013-06-11,True,Republic of Ireland,2,0,W,Spain,Republic of Ireland,2,0,2013
+2013-06-16,True,Uruguay,2,1,W,Spain,Uruguay,2,1,2013
+2013-06-20,True,Tahiti,10,0,W,Spain,Tahiti,10,0,2013
+2013-06-23,False,Nigeria,3,0,W,Nigeria,Spain,0,3,2013
+2013-06-27,True,Italy,0,0,D,Spain,Italy,0,0,2013
+2013-06-30,False,Brazil,0,3,L,Brazil,Spain,3,0,2013
+2013-08-14,False,Ecuador,2,0,W,Ecuador,Spain,0,2,2013
+2013-09-06,False,Finland,2,0,W,Finland,Spain,0,2,2013
+2013-09-10,True,Chile,2,2,D,Spain,Chile,2,2,2013
+2013-10-11,True,Belarus,2,1,W,Spain,Belarus,2,1,2013
+2013-10-15,True,Georgia,2,0,W,Spain,Georgia,2,0,2013
+2013-11-16,False,Equatorial Guinea,2,1,W,Equatorial Guinea,Spain,1,2,2013
+2013-11-19,False,South Africa,0,1,L,South Africa,Spain,1,0,2013
+2014-03-05,True,Italy,1,0,W,Spain,Italy,1,0,2014
+2014-05-30,True,Bolivia,2,0,W,Spain,Bolivia,2,0,2014
+2014-06-07,False,El Salvador,2,0,W,El Salvador,Spain,0,2,2014
+2014-06-13,True,Netherlands,1,5,L,Spain,Netherlands,1,5,2014
+2014-06-18,True,Chile,0,2,L,Spain,Chile,0,2,2014
+2014-06-23,False,Australia,3,0,W,Australia,Spain,0,3,2014
+2014-09-04,False,France,0,1,L,France,Spain,1,0,2014
+2014-09-08,True,North Macedonia,5,1,W,Spain,North Macedonia,5,1,2014
+2014-10-09,False,Slovakia,1,2,L,Slovakia,Spain,2,1,2014
+2014-10-12,False,Luxembourg,4,0,W,Luxembourg,Spain,0,4,2014
+2014-11-15,True,Belarus,3,0,W,Spain,Belarus,3,0,2014
+2014-11-18,True,Germany,0,1,L,Spain,Germany,0,1,2014
+2015-03-27,True,Ukraine,1,0,W,Spain,Ukraine,1,0,2015
+2015-03-31,False,Netherlands,0,2,L,Netherlands,Spain,2,0,2015
+2015-06-11,True,Costa Rica,2,1,W,Spain,Costa Rica,2,1,2015
+2015-06-14,False,Belarus,1,0,W,Belarus,Spain,0,1,2015
+2015-09-05,True,Slovakia,2,0,W,Spain,Slovakia,2,0,2015
+2015-09-08,False,North Macedonia,1,0,W,North Macedonia,Spain,0,1,2015
+2015-10-09,True,Luxembourg,4,0,W,Spain,Luxembourg,4,0,2015
+2015-10-12,False,Ukraine,1,0,W,Ukraine,Spain,0,1,2015
+2015-11-13,True,England,2,0,W,Spain,England,2,0,2015
+2016-03-24,False,Italy,1,1,D,Italy,Spain,1,1,2016
+2016-03-27,False,Romania,0,0,D,Romania,Spain,0,0,2016
+2016-05-29,False,Bosnia and Herzegovina,3,1,W,Bosnia and Herzegovina,Spain,1,3,2016
+2016-06-01,True,South Korea,6,1,W,Spain,South Korea,6,1,2016
+2016-06-07,True,Georgia,0,1,L,Spain,Georgia,0,1,2016
+2016-06-13,True,Czech Republic,1,0,W,Spain,Czech Republic,1,0,2016
+2016-06-17,True,Turkey,3,0,W,Spain,Turkey,3,0,2016
+2016-06-21,False,Croatia,1,2,L,Croatia,Spain,2,1,2016
+2016-06-27,False,Italy,0,2,L,Italy,Spain,2,0,2016
+2016-09-01,False,Belgium,2,0,W,Belgium,Spain,0,2,2016
+2016-09-05,True,Liechtenstein,8,0,W,Spain,Liechtenstein,8,0,2016
+2016-10-06,False,Italy,1,1,D,Italy,Spain,1,1,2016
+2016-10-09,False,Albania,2,0,W,Albania,Spain,0,2,2016
+2016-11-12,True,North Macedonia,4,0,W,Spain,North Macedonia,4,0,2016
+2016-11-15,False,England,2,2,D,England,Spain,2,2,2016
+2017-03-24,True,Israel,4,1,W,Spain,Israel,4,1,2017
+2017-03-28,False,France,2,0,W,France,Spain,0,2,2017
+2017-06-07,True,Colombia,2,2,D,Spain,Colombia,2,2,2017
+2017-06-11,False,North Macedonia,2,1,W,North Macedonia,Spain,1,2,2017
+2017-09-02,True,Italy,3,0,W,Spain,Italy,3,0,2017
+2017-09-05,False,Liechtenstein,8,0,W,Liechtenstein,Spain,0,8,2017
+2017-10-06,True,Albania,3,0,W,Spain,Albania,3,0,2017
+2017-10-09,False,Israel,1,0,W,Israel,Spain,0,1,2017
+2017-11-11,True,Costa Rica,5,0,W,Spain,Costa Rica,5,0,2017
+2017-11-14,False,Russia,3,3,D,Russia,Spain,3,3,2017
+2018-03-23,False,Germany,1,1,D,Germany,Spain,1,1,2018
+2018-03-27,True,Argentina,6,1,W,Spain,Argentina,6,1,2018
+2018-06-03,True,Switzerland,1,1,D,Spain,Switzerland,1,1,2018
+2018-06-09,False,Tunisia,1,0,W,Tunisia,Spain,0,1,2018
+2018-06-15,False,Portugal,3,3,D,Portugal,Spain,3,3,2018
+2018-06-20,False,Iran,1,0,W,Iran,Spain,0,1,2018
+2018-06-25,True,Morocco,2,2,D,Spain,Morocco,2,2,2018
+2018-07-01,False,Russia,1,1,D,Russia,Spain,1,1,2018
+2018-09-08,False,England,2,1,W,England,Spain,1,2,2018
+2018-09-11,True,Croatia,6,0,W,Spain,Croatia,6,0,2018
+2018-10-11,False,Wales,4,1,W,Wales,Spain,1,4,2018
+2018-10-15,True,England,2,3,L,Spain,England,2,3,2018
+2018-11-15,False,Croatia,2,3,L,Croatia,Spain,3,2,2018
+2018-11-18,True,Bosnia and Herzegovina,1,0,W,Spain,Bosnia and Herzegovina,1,0,2018
+2019-03-23,True,Norway,2,1,W,Spain,Norway,2,1,2019
+2019-03-26,False,Malta,2,0,W,Malta,Spain,0,2,2019
+2019-06-07,False,Faroe Islands,4,1,W,Faroe Islands,Spain,1,4,2019
+2019-06-10,True,Sweden,3,0,W,Spain,Sweden,3,0,2019
+2019-09-05,False,Romania,2,1,W,Romania,Spain,1,2,2019
+2019-09-08,True,Faroe Islands,4,0,W,Spain,Faroe Islands,4,0,2019
+2019-10-12,False,Norway,1,1,D,Norway,Spain,1,1,2019
+2019-10-15,False,Sweden,1,1,D,Sweden,Spain,1,1,2019
+2019-11-15,True,Malta,7,0,W,Spain,Malta,7,0,2019
+2019-11-18,True,Romania,5,0,W,Spain,Romania,5,0,2019
+2020-09-03,False,Germany,1,1,D,Germany,Spain,1,1,2020
+2020-09-06,True,Ukraine,4,0,W,Spain,Ukraine,4,0,2020
+2020-10-07,False,Portugal,0,0,D,Portugal,Spain,0,0,2020
+2020-10-10,True,Switzerland,1,0,W,Spain,Switzerland,1,0,2020
+2020-10-13,False,Ukraine,0,1,L,Ukraine,Spain,1,0,2020
+2020-11-11,False,Netherlands,1,1,D,Netherlands,Spain,1,1,2020
+2020-11-14,False,Switzerland,1,1,D,Switzerland,Spain,1,1,2020
+2020-11-17,True,Germany,6,0,W,Spain,Germany,6,0,2020
+2021-03-25,True,Greece,1,1,D,Spain,Greece,1,1,2021
+2021-03-28,False,Georgia,2,1,W,Georgia,Spain,1,2,2021
+2021-03-31,True,Kosovo,3,1,W,Spain,Kosovo,3,1,2021
+2021-06-04,True,Portugal,0,0,D,Spain,Portugal,0,0,2021
+2021-06-08,True,Lithuania,4,0,W,Spain,Lithuania,4,0,2021
+2021-06-14,True,Sweden,0,0,D,Spain,Sweden,0,0,2021
+2021-06-19,True,Poland,1,1,D,Spain,Poland,1,1,2021
+2021-06-23,True,Slovakia,5,0,W,Spain,Slovakia,5,0,2021
+2021-06-28,False,Croatia,5,3,W,Croatia,Spain,3,5,2021
+2021-07-02,False,Switzerland,1,1,D,Switzerland,Spain,1,1,2021
+2021-07-06,False,Italy,1,1,D,Italy,Spain,1,1,2021
+2021-09-02,False,Sweden,1,2,L,Sweden,Spain,2,1,2021
+2021-09-05,True,Georgia,4,0,W,Spain,Georgia,4,0,2021
+2021-09-08,False,Kosovo,2,0,W,Kosovo,Spain,0,2,2021
+2021-10-06,False,Italy,2,1,W,Italy,Spain,1,2,2021
+2021-10-10,True,France,1,2,L,Spain,France,1,2,2021
+2021-11-11,False,Greece,1,0,W,Greece,Spain,0,1,2021
+2021-11-14,True,Sweden,1,0,W,Spain,Sweden,1,0,2021
+2022-03-26,True,Albania,2,1,W,Spain,Albania,2,1,2022
+2022-03-29,True,Iceland,5,0,W,Spain,Iceland,5,0,2022
+2022-06-02,True,Portugal,1,1,D,Spain,Portugal,1,1,2022
+2022-06-05,False,Czech Republic,2,2,D,Czech Republic,Spain,2,2,2022
+2022-06-09,False,Switzerland,1,0,W,Switzerland,Spain,0,1,2022
+2022-06-12,True,Czech Republic,2,0,W,Spain,Czech Republic,2,0,2022
+2022-09-24,True,Switzerland,1,2,L,Spain,Switzerland,1,2,2022
+2022-09-27,False,Portugal,1,0,W,Portugal,Spain,0,1,2022
+2022-11-17,False,Jordan,3,1,W,Jordan,Spain,1,3,2022
+2022-11-23,True,Costa Rica,7,0,W,Spain,Costa Rica,7,0,2022
+2022-11-27,True,Germany,1,1,D,Spain,Germany,1,1,2022
+2022-12-01,False,Japan,1,2,L,Japan,Spain,2,1,2022
+2022-12-06,False,Morocco,0,0,D,Morocco,Spain,0,0,2022
+2023-03-25,True,Norway,3,0,W,Spain,Norway,3,0,2023
+2023-03-28,False,Scotland,0,2,L,Scotland,Spain,2,0,2023
+2023-06-15,True,Italy,2,1,W,Spain,Italy,2,1,2023
+2023-06-18,False,Croatia,0,0,D,Croatia,Spain,0,0,2023
+2023-09-08,False,Georgia,7,1,W,Georgia,Spain,1,7,2023
+2023-09-12,True,Cyprus,6,0,W,Spain,Cyprus,6,0,2023
+2023-10-12,True,Scotland,2,0,W,Spain,Scotland,2,0,2023
+2023-10-15,False,Norway,1,0,W,Norway,Spain,0,1,2023
+2023-11-16,False,Cyprus,3,1,W,Cyprus,Spain,1,3,2023
+2023-11-19,True,Georgia,3,1,W,Spain,Georgia,3,1,2023
+2024-03-22,True,Colombia,0,1,L,Spain,Colombia,0,1,2024
+2024-03-26,True,Brazil,3,3,D,Spain,Brazil,3,3,2024
+2024-06-05,True,Andorra,5,0,W,Spain,Andorra,5,0,2024
+2024-06-08,True,Northern Ireland,5,1,W,Spain,Northern Ireland,5,1,2024
+2024-06-15,True,Croatia,3,0,W,Spain,Croatia,3,0,2024
+2024-06-20,True,Italy,1,0,W,Spain,Italy,1,0,2024
+2024-06-24,False,Albania,1,0,W,Albania,Spain,0,1,2024
+2024-06-30,True,Georgia,4,1,W,Spain,Georgia,4,1,2024
+2024-07-05,False,Germany,2,1,W,Germany,Spain,1,2,2024
+2024-07-09,True,France,2,1,W,Spain,France,2,1,2024
+2024-07-14,True,England,2,1,W,Spain,England,2,1,2024
+2024-09-05,False,Serbia,0,0,D,Serbia,Spain,0,0,2024
+2024-09-08,False,Switzerland,4,1,W,Switzerland,Spain,1,4,2024
+2024-10-12,True,Denmark,1,0,W,Spain,Denmark,1,0,2024
+2024-10-15,True,Serbia,3,0,W,Spain,Serbia,3,0,2024
+2024-11-15,False,Denmark,2,1,W,Denmark,Spain,1,2,2024
+2024-11-18,True,Switzerland,3,2,W,Spain,Switzerland,3,2,2024
+2025-03-20,False,Netherlands,2,2,D,Netherlands,Spain,2,2,2025
+2025-03-23,True,Netherlands,3,3,D,Spain,Netherlands,3,3,2025
+2025-06-05,True,France,5,4,W,Spain,France,5,4,2025
+2025-06-08,False,Portugal,2,2,D,Portugal,Spain,2,2,2025
